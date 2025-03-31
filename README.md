@@ -17,7 +17,10 @@ If you need **APIs built, databases handled, or cloud magic done**, hit me up! O
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikk434&layout=compact&theme=tokyonight)## 📫 Connect with Me:
+
+## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-kshirsagar-022889287?trk=contact-info)
 [![Instagram](https://img.shields.io/badge/Instagram(Photography)-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nick_clicks_24?igsh=dnBmaWZkbG4zbmJw)
 [![Instagram](https://img.shields.io/badge/Instagram(personal)-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikhil_s_k_434?igsh=dGFyY3Y5OHY5NHRz)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikk434&layout=compact&theme=tokyonight)
