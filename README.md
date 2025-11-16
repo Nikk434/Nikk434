@@ -1,14 +1,31 @@
-# 👋 Hey, I'm Nikhil Kshirsagar!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FFD700&width=600&lines=Backend+Dev+%7C+Tea+Lover+%7C+Movie+Buff;Building+RAG+Chatbots+at+BotPlus+LLP;I+write+code,+sip+tea,+Travel+,+and+click+memories!)](https://git.io/typing-svg)
+# Nikhil Kshirsagar
 
-Hey, I’m **Nikhil Kshirsagar**—a backend dev by profession, a **tea enthusiast**, and a **movie buff** by heart.  
-I spend my days at **BotPlus LLP**, making a **RAG chatbot** that actually understands you (well, most of the time).  
+**ML Engineer** | Pune, Maharashtra 
+## About
 
-If you need **APIs built, databases handled, or cloud magic done**, hit me up! Otherwise, let’s just talk about movies and sip some chai. ☕🎬 
+Building computer vision systems for real-time audience measurement in media and sports. Experience in ML pipelines, RAG chatbots, and full-stack development. Open to ML engineering and backend roles.
 
-## 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-kshirsagar-022889287?trk=contact-info)
-[![Instagram](https://img.shields.io/badge/Instagram(Photography)-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nick_clicks_24?igsh=dnBmaWZkbG4zbmJw)
-[![Instagram](https://img.shields.io/badge/Instagram(personal)-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikhil_s_k_434?igsh=dGFyY3Y5OHY5NHRz)
+## Tech Stack
 
+**Languages:** Python, JavaScript, Java  
+**ML/CV:** YOLOv8, OpenCV, RetinaFace  
+**Backend:** FastAPI, Flask, Spring Boot  
+**Frontend:** Next.js, React, CSS  
+**Database:** MongoDB, MySQL, Vector DBs  
+**AI/NLP:** LangChain, RAG Pipelines, HuggingFace  
+**Tools:** VS Code, Docker, Git, Postman
+
+## Experience
+
+**ML Engineering Intern @ Inditronics Pvt Ltd**  
+Developing computer vision systems for people counting and audience measurement across Linear TV, OTT platforms, and sports analytics. Building real-time image processing pipelines using YOLO and OpenCV.
+
+**Backend Developer Intern @ BotPlus LLP**  
+Built production RAG-based chatbot systems with vector search and LLM integration. Handled API development, database design, and cloud deployment.
+
+## Let's connect
+[LinkedIn](https://www.linkedin.com/in/nikhil-kshirsagar-022889287) | [Email](nskshirsagar434@gmail.com)
+Open to collaboration and meaningful conversations about ML and web development.
+
+---
